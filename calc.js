@@ -35,7 +35,8 @@ function calc(){
             break;
         case '%':
             total.textContent = (secondNumber / 100)*firstNumber ;  
-            break;   
-            
+            break;  
+             
+
     }
 };
